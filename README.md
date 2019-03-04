@@ -52,6 +52,7 @@ Curriculum for learning reactive programming in Java, specifically with Spring B
     - [Set up Reactor with Sprint Data](https://spring.io/blog/2016/11/28/going-reactive-with-spring-data)
     - [Example use with business objects, Integrating Reactor with Spring and Creating Reactive Code](https://learning.oreilly.com/videos/spring-5-0-project/9781787284210/9781787284210-video5_1)
 - Patterns
+ - [Effective Java](https://learning.oreilly.com/library/view/effective-java-2nd/9780137150021/)
 - Architecture
 
 ### Distributed Systems
