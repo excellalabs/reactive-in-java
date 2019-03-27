@@ -47,6 +47,7 @@ NOTE: A lot of these resources come from Safari, which requires a subscription w
 
 ## Learning
 
+- [Docs](https://spring.io/guides/gs/spring-boot/)
 - [Microservices with Spring Boot](https://learning.oreilly.com/videos/building-microservices-with/9780134678658?autoplay=false)
 - TOPICS
     - [Bean Lifecycle](https://learning.oreilly.com/videos/spring-5-0-project/9781787284210/9781787284210-video2_1)
