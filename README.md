@@ -8,7 +8,7 @@ NOTE: A lot of these resources come from Safari, which requires a subscription w
 
 ## [TODO](todo.md)
 
-## Curricula
+## Curricula Overview
 
 * Getting Started with Reactor
   * Basics of streams, event loop
@@ -22,9 +22,9 @@ NOTE: A lot of these resources come from Safari, which requires a subscription w
 * Distributed Systems
 * Front-end with React
 
-## Getting Started with Reactor
+# Getting Started with Reactor
 
-### Learning 
+## Learning 
 
 - [Reactive in Spring (video)](https://learning.oreilly.com/videos/reactive-spring/9781492025733/9781492025733-video317125) - This has about **40 minutes** of video going over reactive and how Reactor is the default implementation in spring boot, and then gets into it. It's a good place to start, to get an overview. Key sections: 
   - The Reactive Streams Spec
@@ -39,13 +39,13 @@ NOTE: A lot of these resources come from Safari, which requires a subscription w
   - [When to use what operator](https://projectreactor.io/docs/core/release/reference/index.html#which-operator) - appendix to the Reference Guide that is very helpful
   - [Reactor's Learning Material](https://projectreactor.io/learn) - material they provide to learn, including exercises
 
-### Doing
+## Doing
 
-TODO: exercises/app
+- TODO: exercises/app
 
-## Spring Boot
+# Spring Boot
 
-### Learning
+## Learning
 
 - [Microservices with Spring Boot](https://learning.oreilly.com/videos/building-microservices-with/9780134678658?autoplay=false)
 - TOPICS
@@ -53,13 +53,13 @@ TODO: exercises/app
     - Aspect-Oriented (AspectJ, auditing, security) - TODO
     - TODO
 
-### Doing
+## Doing
 
-TODO: exercises/app
+- TODO: exercises/app
 
-## Java
+# Java
 
-### Learning 
+## Learning 
 
 - Modern Java (8, 11, streams, lambdas, etc)
     - [Learning Modern Java](https://learning.oreilly.com/videos/learning-modern-java/9780134383613?autoplay=false)
@@ -71,28 +71,28 @@ TODO: exercises/app
   - [Effective Java](https://learning.oreilly.com/library/view/effective-java-2nd/9780137150021/) - cornerstone book on the right way to write Java
 - Architecture - TODO
 
-### Doing
+## Doing
 
-TODO: exercises/app
+- TODO: exercises/app
 
-## Distributed Systems
+# Distributed Systems
 
-### Learning
+## Learning
 
 - Integration Patterns - TODO
 - [Distributed Systems in One Lesson](https://learning.oreilly.com/videos/distributed-systems-in/9781491924914?autoplay=false)
 - [Microservices Patterns](https://learning.oreilly.com/library/view/microservices-patterns/9781617294549/)
 
-### Doing
+## Doing
 
-TODO: exercises/app
+- TODO: exercises/app
 
-## React
+# React
 
-### Learning
+## Learning
 
 - [Hands-on Web Development with React](https://learning.oreilly.com/videos/hands-on-web-development/9781789343915?autoplay=false)
 
-### Doing
+## Doing
 
-TODO: exercises/app
+- TODO: exercises/app
