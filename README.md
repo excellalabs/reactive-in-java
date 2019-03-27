@@ -53,6 +53,15 @@ NOTE: A lot of these resources come from Safari, which requires a subscription w
     - [Bean Lifecycle](https://learning.oreilly.com/videos/spring-5-0-project/9781787284210/9781787284210-video2_1)
     - Aspect-Oriented (AspectJ, auditing, security) - TODO
     - TODO
+- Key libraries
+    - Reactor for reactive functional programming
+    - Spring Data JDBC
+    - Flyway for Database Migrations
+    - PostgreSQL in a container for local development
+    - Lombok
+    - Checkstyle
+    - Spring Actuator
+    - JUnit
 
 ## Doing
 
