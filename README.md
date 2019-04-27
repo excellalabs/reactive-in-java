@@ -65,7 +65,24 @@ NOTE: A lot of these resources come from Safari, which requires a subscription w
 
 ## Doing
 
-- TODO: exercises/app
+* [Validating Form Input](https://spring.io/guides/gs/validating-form-input/)
+* [Securing a Web Application](https://spring.io/guides/gs/securing-web/)
+* [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+* [Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
+* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+* [Messaging with Redis](https://spring.io/guides/gs/messaging-redis/)
+* [Accessing Data with MongoDB](https://spring.io/guides/gs/accessing-data-mongodb/)
+* [Integrating Data](https://spring.io/guides/gs/integration/)
+* [Messaging with RabbitMQ](https://spring.io/guides/gs/messaging-rabbitmq/)
+* [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/)
+* [Using Spring Cloud Gateway](https://github.com/spring-cloud-samples/spring-cloud-gateway-sample)
+* [Client Side Load Balancing with Ribbon and Spring Cloud](https://spring.io/guides/gs/client-side-load-balancing/)
+* [Circuit Breaker](https://spring.io/guides/gs/circuit-breaker/)
+* [Building a RESTful Web Service with Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/)
+
+* [Various sample apps using Spring Cloud Function](https://github.com/spring-cloud/spring-cloud-function/tree/master/spring-cloud-function-samples)
+
+
 
 # Java
 
