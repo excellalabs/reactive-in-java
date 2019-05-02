@@ -24,7 +24,9 @@ NOTE: A lot of these resources come from Safari, which requires a subscription w
 
 # Getting Started with Reactor
 
-## Learning 
+Learn/Do/Assess
+
+## Level I
 
 - [Reactive in Spring (video)](https://learning.oreilly.com/videos/reactive-spring/9781492025733/9781492025733-video317125) - This has about **40 minutes** of video going over reactive and how Reactor is the default implementation in spring boot, and then gets into it. It's a good place to start, to get an overview. Key sections: 
   - The Reactive Streams Spec
@@ -39,33 +41,18 @@ NOTE: A lot of these resources come from Safari, which requires a subscription w
   - [When to use what operator](https://projectreactor.io/docs/core/release/reference/index.html#which-operator) - appendix to the Reference Guide that is very helpful
   - [Reactor's Learning Material](https://projectreactor.io/learn) - material they provide to learn, including exercises
 
-## Doing
+## Level II
 
 - TODO: exercises/app
 
 # Spring Boot
 
-## Learning
+[Spring Boot Curric]
 
-- [Docs](https://spring.io/guides/gs/spring-boot/)
-- [Microservices with Spring Boot](https://learning.oreilly.com/videos/building-microservices-with/9780134678658?autoplay=false)
-- TOPICS
-    - [Bean Lifecycle](https://learning.oreilly.com/videos/spring-5-0-project/9781787284210/9781787284210-video2_1)
-    - Aspect-Oriented (AspectJ, auditing, security) - TODO
-    - TODO
-- Key libraries
-    - Reactor for reactive functional programming
-    - Spring Data JDBC
-    - Flyway for Database Migrations
-    - PostgreSQL in a container for local development
-    - Lombok
-    - Checkstyle
-    - Spring Actuator
-    - JUnit
 
 ## Doing
 
-- TODO: exercises/app
+- TODO: exercises/app (can go right with the topic)
 
 # Java
 
