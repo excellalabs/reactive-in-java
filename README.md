@@ -6,7 +6,7 @@ NOTE: A lot of these resources come from Safari, which requires a subscription w
 
 *[TODO items](todo.md)*
 
-## Curriculum: Microserivces and Reactive using Java and Spring Boot
+--- 
 
 **Instructions:** *Go through each curriculum, and go through the resources and complete the relelated exercises Note, you can fork this repo to track your process using the checkboxes*
 
