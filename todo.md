@@ -3,7 +3,8 @@
 
 - Fill in topics on README, break out subsections
 - Reactor Cheat Sheet
-- exercises/app for each section
+- Exercises/app for each section
+- Move checkboxes to another section - pd plan
 
 ## Vet
 

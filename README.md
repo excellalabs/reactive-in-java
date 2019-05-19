@@ -1,16 +1,22 @@
-# Curricula: Reactive Programming with Reactor and Spring Boot, and Related Material
+# Curricula: Reactive Programming with Reactor & Spring Boot Microservices
 
-Curriculum for learning reactive programming in Java, specifically with Spring Boot and Reactor, with a front-end in React
-
-This will probably be broken up into subpages by the `Curricula` sections, but for now we're trying to get key topics enumerated so people are aware of the landscape they need to know, with key resources to go through (in minimal amount of time), and eventually exercises / app to build to reinforce learning (NOTE: repo is poorly named right as now as it started out focused on reactive).
+Curriculum for learning reactive programming in Java, specifically with Spring Boot and Reactor.
 
 NOTE: A lot of these resources come from Safari, which requires a subscription which is highly recommended (trials available).
 
-## [TODO](todo.md)
+### [TODO items](todo.md)
 
-## Curricula Overview
+## Curriculum: Microserivces and Reactive using Java and Spring Boot
 
-* Java, Streams, and Reactor
-* Spring Boot
-* Distributed Systems
-* Front-end with React
+*Go through each curriculum, and go through the resources and complete the relelated exercises Note, you can fork this repo to track your process using the checkboxes*
+
+* [Java](curric-java.md)
+* [Reactive Programming & Reactor](curric-java#Reactive-and-Reactor.md)
+  - [ ] Basics of reactive - streams, event loop
+  - [ ] Reactor
+    -   [ ] Fluxes and Monos
+    -   [ ] Operators
+    -   [ ] Use cases for Reactor approaches (i.e. zips, tuples)
+    - [ ] Patterns: Higher order functions, currying, etc.
+* [Spring Boot](curric-microservices-with-spring-boot.md)
+* [Microservices](curric-spring-boot-microservices.md)
