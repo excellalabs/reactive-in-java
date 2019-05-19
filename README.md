@@ -4,19 +4,13 @@ Curriculum for learning reactive programming in Java, specifically with Spring B
 
 NOTE: A lot of these resources come from Safari, which requires a subscription which is highly recommended (trials available).
 
-### [TODO items](todo.md)
+*[TODO items](todo.md)*
 
 ## Curriculum: Microserivces and Reactive using Java and Spring Boot
 
-*Go through each curriculum, and go through the resources and complete the relelated exercises Note, you can fork this repo to track your process using the checkboxes*
+**Instructions:** *Go through each curriculum, and go through the resources and complete the relelated exercises Note, you can fork this repo to track your process using the checkboxes*
 
-* [Java](curric-java.md)
-* [Reactive Programming & Reactor](curric-java#Reactive-and-Reactor.md)
-  - [ ] Basics of reactive - streams, event loop
-  - [ ] Reactor
-    -   [ ] Fluxes and Monos
-    -   [ ] Operators
-    -   [ ] Use cases for Reactor approaches (i.e. zips, tuples)
-    - [ ] Patterns: Higher order functions, currying, etc.
-* [Spring Boot](curric-microservices-with-spring-boot.md)
-* [Microservices](curric-spring-boot-microservices.md)
+* [] [Java](curric-java.md)
+* [] [Reactive Programming & Reactor](curric-java#Reactive-and-Reactor.md)
+* [] [Spring Boot](curric-microservices-with-spring-boot.md)
+* [] [Microservices](curric-spring-boot-microservices.md)
