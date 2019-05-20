@@ -1,12 +1,6 @@
-# Reactive with Reactor in Java
+# Java Foundation for Reactive
 
-## Overview
-
-Curriculum for learning reactive programming in Java, specifically with Spring Boot and Reactor
-
-## Java Foundation for Reactive
-
-### Modern Java (streams, lambdas, etc)
+## Modern Java (streams, lambdas, etc)
 
 - [Learning Modern Java](https://learning.oreilly.com/videos/learning-modern-java/9780134383613?autoplay=false)
   - [ ] Sections on Lambdas, Streams, Optional, Reactive Streams & Reactor, Reactive data
@@ -20,7 +14,7 @@ Curriculum for learning reactive programming in Java, specifically with Spring B
 
 - Patterns
   - [ ] [Effective Java](https://learning.oreilly.com/library/view/effective-java-2nd/9780137150021/) - cornerstone book on the right way to write Java
-  // TODO resource for the below, esp. IDE setup for efficiency
+- // TODO resource for the below, esp. IDE setup for efficiency
 - Error handling
 - Architecture
 - DI
