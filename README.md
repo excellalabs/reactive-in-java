@@ -8,7 +8,7 @@ NOTE: A lot of these resources come from Safari, which requires a subscription w
 
 **Instructions:** *Go through each curriculum, and go through the resources and complete the relelated exercises Note, you can fork this repo to track your process using the checkboxes*
 
-* [ ] [Modern and Functional Java](curric-java.md)
+* [ ] [Modern and Functional Java](curric-java.md#Java-Foundation-for-Reactive)
 * [ ] [Reactive Programming & Reactor](curric-java#Reactive-and-Reactor.md)
 * [ ] [Spring Boot](curric-microservices-with-spring-boot.md)
 * [ ] [Microservices](curric-spring-boot-microservices.md)
