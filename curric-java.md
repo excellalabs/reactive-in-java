@@ -33,7 +33,7 @@
 
 **Exercise**
 
-[ ] App that uses the above libraries
+- [ ] App that uses the above libraries
 
 # Reactive and Reactor Curriculum
   
