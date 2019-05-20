@@ -16,29 +16,24 @@ Curriculum for learning reactive programming in Java, specifically with Spring B
 **Exercises**
 - [ ] TODO
     
-### Foundation Java Review
+## Foundational Java Review
 
-- [Effective Java](https://learning.oreilly.com/library/view/effective-java-2nd/9780137150021/) - cornerstone book on the right way to write Java
 - Patterns
+  - [ ] [Effective Java](https://learning.oreilly.com/library/view/effective-java-2nd/9780137150021/) - cornerstone book on the right way to write Java
+  // TODO resource for the below, esp. IDE setup for efficiency
 - Error handling
 - Architecture
 - DI
-- AOP
-- Language constructs
-  - Optional
-  - //TODO
 - IDE setup & IntelliJ Overview
 - Dependency Management
 - Nexus
     
-### Libraries
+## Libraries
 
 - Spring Data JDBC
-- JAXRS
-- Logback
 - SLF4J, Logback
 - Swagger
-- Junit
+- JUnit
 - Mockito
 - Lombok
 
@@ -48,11 +43,11 @@ Curriculum for learning reactive programming in Java, specifically with Spring B
 
 # Reactive and Reactor Curriculum
   
-Key Concepts:
+## Key Concepts
 
 - Reactive
-    - **Reactive** Composable asynchronous implementing the [Reactive Streams](http://www.reactive-streams.org/) specification
-    - Basics of streams, event loop
+    - *Reactive defined:* Composable asynchronous implementing the [Reactive Streams](http://www.reactive-streams.org/) specification
+    - Streams, event loop
     - Other tools to reduce complexity of concurrency under load: java.util.concurrent, Akka streams, CompletableFuture, and frameworks like Netty
     - Patterns: Higher order functions, currying, etc.
 - The Reactive Streams Spec
@@ -65,10 +60,11 @@ Key Concepts:
     - filter
     - onSuccess, onFailure
     - toCompleteableFuture
+    - //TODO
 
-### Learning Resources
+## Learning Resources
 
-#### Part 1 
+### Part 1 
 
 **Learning Material*
 
@@ -79,9 +75,9 @@ Key Concepts:
 **Exercises**
 
 - [ ] [Reactor's Learning Material](https://projectreactor.io/learn)
-- [ ] [Set up Reactor with Sprint Data](https://spring.io/blog/2016/11/28/going-reactive-with-spring-data)
+- [ ] [Set up Reactor with Spring Data](https://spring.io/blog/2016/11/28/going-reactive-with-spring-data)
 
-#### Part 2
+### Part 2
 
 **Learning Material**
 
