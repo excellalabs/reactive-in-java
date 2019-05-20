@@ -10,5 +10,5 @@ NOTE: A lot of these resources come from Safari, which requires a subscription w
 
 * [ ] [Modern and Functional Java](curric-java.md#Java-Foundation-for-Reactive)
 * [ ] [Reactive Programming & Reactor](curric-java#Reactive-and-Reactor.md)
-* [ ] [Spring Boot](curric-microservices-with-spring-boot.md)
+* [ ] [Spring Boot](curric-spring-boot-microservices.md)
 * [ ] [Microservices](curric-spring-boot-microservices.md)
