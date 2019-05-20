@@ -2,9 +2,7 @@
 
 A guided curriculum with all the core resources to learn reactive programming in Java, specifically with Spring Boot microservices and Reactor.
 
-NOTE: A lot of these resources come from Safari, which requires a subscription which is highly recommended (trials available).
-
-*[TODO items](todo.md)*
+NOTE: A lot of these resources come from Safari, which requires a subscription which is highly recommended (trials available). *This is a work-in-progress. [TODO items](todo.md)*
 
 --- 
 
