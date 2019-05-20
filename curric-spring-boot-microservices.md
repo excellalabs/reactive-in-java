@@ -1,4 +1,4 @@
-### Distributed Systems & Microservices
+# Distributed Systems & Microservices
 
 ## NOTE: THIS HAS A LOT OF WORK AND CLEANING UP NEEDED
 
@@ -29,7 +29,9 @@
 - Application-tier caching: memcached, redis
 - Distributed caching
 
-### Spring & Spring Boot
+# Spring and Spring Boot
+
+## NOTE: THIS HAS A LOT OF WORK AND CLEANING UP NEEDED
 
 - [Docs](https://spring.io/guides/gs/spring-boot/)
 - [Microservices with Spring Boot (video)](https://learning.oreilly.com/videos/building-microservices-with/9780134678658?autoplay=false)
