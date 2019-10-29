@@ -1,28 +1,15 @@
 # Java Foundation for Reactive
 
+This areas should be covered or brushed up on before expanding into functional reactive programming with Reactor.
+
 ## Modern Java (streams, lambdas, etc)
 
 - [Learning Modern Java](https://learning.oreilly.com/videos/learning-modern-java/9780134383613?autoplay=false)
   - [ ] Sections on Lambdas, Streams, Optional, Reactive Streams & Reactor, Reactive data
   - [ ] Any other section you need to review
 - [ ] [Functional Programming for Java](https://learning.oreilly.com/videos/functional-programming-for/9780134778235?autoplay=false)
-
-**Exercises**
-- [ ] TODO
     
-## Foundational Java Review
-
-- Patterns
-  - [ ] [Effective Java](https://learning.oreilly.com/library/view/effective-java-2nd/9780137150021/) - cornerstone book on the right way to write Java
-- // TODO resource for the below, esp. IDE setup for efficiency
-- Error handling
-- Architecture
-- DI
-- IDE setup & IntelliJ Overview
-- Dependency Management
-- Nexus
-    
-## Libraries
+## Common Libraries in Java
 
 - Spring Data JDBC
 - SLF4J, Logback
@@ -30,16 +17,13 @@
 - JUnit
 - Mockito
 - Lombok
-
-**Exercise**
-
-- [ ] App that uses the above libraries
+- Vavr
 
 # Reactive and Reactor Curriculum
   
 ## Key Concepts
 
-Review these concepts. You should understand all of them after going through the learn materials below.
+Review these concepts then dive into the learning materials below. You should understand all of them after going through the learn materials below.
 
 - Reactive
     - *Reactive defined:* Composable asynchronous implementing the [Reactive Streams](http://www.reactive-streams.org/) specification
@@ -61,6 +45,8 @@ Review these concepts. You should understand all of them after going through the
 ## Learning Resources
 
 ### Part 1 
+
+This will set the foundation of functional reactive programming with Reactor and will provide the bulk of what you need to get started.
 
 - [ ] [Reactor by Example on InfoQ](https://www.infoq.com/articles/reactor-by-example)
 - [ ] [Reactor Reference Guide & Docs](https://projectreactor.io/docs/core/release/reference/)
