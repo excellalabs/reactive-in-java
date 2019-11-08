@@ -48,10 +48,12 @@ Review these concepts then dive into the learning materials below. You should un
 
 This will set the foundation of functional reactive programming with Reactor and will provide the bulk of what you need to get started.
 
-- [ ] [Reactor by Example on InfoQ](https://www.infoq.com/articles/reactor-by-example)
+It's very important to try out as much as you can as you go along, for everything to make sense and sink in. You should **start up a project with Reactor** so you can start coding right away. Here is a [minimal working template](https://github.com/Wyntuition/spring-reactor-template) if you want a jumpstart.
+
+- [ ] [Reactor by Example on InfoQ - quick dive](https://www.infoq.com/articles/reactor-by-example)
 - [ ] [Reactor Reference Guide & Docs](https://projectreactor.io/docs/core/release/reference/)
     - [ ] Read first part which explains Reactor
-- [ ] [Reactive in Spring (video)](https://learning.oreilly.com/videos/reactive-spring/9781492025733/9781492025733-video317125) - This has about **40 minutes** of video going over reactive and how Reactor is the default implementation in spring boot, and then gets into it. It's a good way to get a video overview.
+- [ ] [Reactive in Spring (video) - good overview talk](https://learning.oreilly.com/videos/reactive-spring/9781492025733/9781492025733-video317125) - This has about **40 minutes** of video going over reactive and how Reactor is the default implementation in spring boot, and then gets into it. It's a good way to get a video overview.
 
 **Exercises**
 
