@@ -66,8 +66,3 @@ It's very important to try out as much as you can as you go along, for everythin
 
 - [ ] [When to use what operator](https://projectreactor.io/docs/core/release/reference/index.html#which-operator) - appendix to the Reference Guide that is very helpful
 - [ ] [Reactive 3, deeper with Simon Basle (video, 51m)](https://www.youtube.com/watch?v=WJK6chc7w3o)
-
-**Exercises**
-
-- [ ] Guided creation of a larger app - [Example use with business objects, Integrating Reactor with Spring and Creating Reactive Code](https://learning.oreilly.com/videos/spring-5-0-project/9781787284210/9781787284210-video5_1)
-
