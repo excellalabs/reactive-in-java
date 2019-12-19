@@ -4,10 +4,11 @@ This areas should be covered or brushed up on before expanding into functional r
 
 ## Modern Java (streams, lambdas, etc)
 
-- [Learning Modern Java](https://learning.oreilly.com/videos/learning-modern-java/9780134383613?autoplay=false)
+- [Streams in Java](https://stackify.com/streams-guide-java-8/) (30m)
+- [Learning Modern Java](https://learning.oreilly.com/videos/learning-modern-java/9780134383613?autoplay=false) (video)
   - [ ] Sections on Lambdas, Streams, Optional, Reactive Streams & Reactor, Reactive data
   - [ ] Any other section you need to review
-- [ ] [Functional Programming for Java](https://learning.oreilly.com/videos/functional-programming-for/9780134778235?autoplay=false)
+- [ ] [Functional Programming for Java](https://learning.oreilly.com/videos/functional-programming-for/9780134778235?autoplay=false) (video)
     
 ## Common Libraries in Java
 
@@ -42,7 +43,7 @@ Review these concepts then dive into the learning materials below. You should un
     - toCompleteableFuture
     - //TODO
 
-## Learning Resources
+## Reactor Learning Resources
 
 ### Part 1 
 
