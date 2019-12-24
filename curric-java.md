@@ -1,8 +1,13 @@
 # Java Foundation for Reactive
 
-This areas should be covered or brushed up on before expanding into functional reactive programming with Reactor.
+This curriculum will review modern approaches in Java that reactive programming builds on. 
 
-## Modern Java Crash Course (lambdas, streams, functional)
+1. Review [Modern Java Crash Course](#Modern-Java–Crash-Course), which includes learning resources, libraries, and key concepts.
+1. Go through the [Reactive and Reactor Curriculum](#Reactive-and-Reactor-Curriculum)
+
+# Modern Java Crash Course (lambdas, streams, functional)
+
+This areas should be covered or brushed up on before expanding into functional reactive programming with Reactor.
 
 New features that really started showing in Java 8, are an important foundation to reactive. 
 
