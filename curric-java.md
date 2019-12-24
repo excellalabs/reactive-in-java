@@ -5,11 +5,9 @@ This curriculum will review modern approaches in Java that reactive programming 
 1. Review [Modern Java Crash Course](#Modern-Java–Crash-Course), which includes learning resources, libraries, and key concepts.
 1. Go through the [Reactive and Reactor Curriculum](#Reactive-and-Reactor-Curriculum)
 
-# Modern Java Crash Course (lambdas, streams, functional)
+# Modern Java Crash Course
 
-This areas should be covered or brushed up on before expanding into functional reactive programming with Reactor.
-
-New features that really started showing in Java 8, are an important foundation to reactive. 
+This areas should be covered or brushed up on before expanding into reactive programming with Reactor, including lambdas, streams, and functional. These features really started showing up in Java 8, are an important foundation to reactive. 
 
 - [ ] [Streams in Java](https://stackify.com/streams-guide-java-8/) (30m)
 - [ ] [Learning Modern Java](https://learning.oreilly.com/videos/learning-modern-java/9780134383613?autoplay=false) (video)
