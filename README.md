@@ -6,7 +6,7 @@ NOTE: A lot of these resources come from Safari, which requires a subscription w
 
 --- 
 
-**Instructions:** *Go through each curriculum, and go through the resources and complete the relelated exercises Note, you can fork this repo to track your process using the checkboxes*
+**Instructions:** *Go through each curriculum, and go through the resources and complete the relelated exercises. You can fork this repo to track your process using the checkboxes.*
 
 * [ ] [Modern and Functional Java](curric-java.md#Java-Foundation-for-Reactive)
 * [ ] [Reactive Programming & Reactor](curric-java.md#Reactive-and-Reactor-Curriculum)
