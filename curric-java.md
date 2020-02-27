@@ -9,6 +9,10 @@ This curriculum will review modern approaches in Java that reactive programming 
 
 This areas should be covered or brushed up on before expanding into reactive programming with Reactor, including lambdas, streams, and functional. These features really started showing up in Java 8, are an important foundation to reactive. 
 
+1. The book [Modern Java in Acton](https://www.manning.com/books/modern-java-in-action) covers all modern approaches, including lambdas, streams, and reactive. 
+
+*OR*
+
 1. [Streams in Java](https://stackify.com/streams-guide-java-8/) (30m)
 1. [Learning Modern Java](https://learning.oreilly.com/videos/learning-modern-java/9780134383613?autoplay=false) (video)
     1. Sections on Lambdas, Streams, Optional, Reactive Streams & Reactor, Reactive data
