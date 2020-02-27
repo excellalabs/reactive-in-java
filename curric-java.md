@@ -41,7 +41,6 @@ Review these concepts. They are what will be covered below. You should understan
     - Other tools to reduce complexity of concurrency under load: java.util.concurrent, Akka streams, CompletableFuture, and frameworks like Netty
     - Patterns: Higher order functions, currying, etc.
 - The Reactive Streams Spec
-- Core Operators (map, flatMap, filter, buffer)
 - Project Reactor
   - Flux and Mono
   - the Spring-Webflux Module
